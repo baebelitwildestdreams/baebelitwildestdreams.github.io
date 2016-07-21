@@ -1,0 +1,38 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+img{
+  border-radius: 100%;
+}
+
+h1 {
+  color: blue;
+}
+
+nav.vertical {
+  width: 40%;
+}
+nav.vertical li {
+  display: block;
+}
+nav.vertical a {
+  border: none;
+}
+nav ul li:hover a {
+}
+li {
+  display: inline;
+}
+
+a {
+  display: inline-block;
+  padding:20px 5px 20px;
+  font-size: 35px;
+  background-color:fuchsia;
+  border-radius: 5px;
+  transition: all 250ms;
+}
+
+
